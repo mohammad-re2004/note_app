@@ -1,4 +1,4 @@
 # note_application
 
-A new Flutter project.
+A  Flutter project.
 

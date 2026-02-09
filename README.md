@@ -1,9 +1,4 @@
 # note_application
-
-A  Flutter project.
-
-🛠️ Technologies Used
-
 Flutter — cross-platform UI framework
 
 Dart — main programming language

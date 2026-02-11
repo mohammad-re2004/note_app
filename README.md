@@ -12,4 +12,4 @@ MVVM — View ↔ ViewModel binding pattern
 HTTP / Dio — for API communication
 #frf
 
-Equatable — 
+Equatable
